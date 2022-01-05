@@ -37,3 +37,21 @@ h2{
     padding-right: 10px;
     text-decoration: none;
 }
+.bg-bt-lef{
+    background-image: url(image/images.jpg);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+}
+.experi{
+    background-position: left;
+}
+.experi-item{
+    width: 40%;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left:30px;
+    box-shadow: 10px 10px 40px gray;
+}
+.alin{
+    text-align: center;
+}
